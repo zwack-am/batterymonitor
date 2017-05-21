@@ -22,7 +22,7 @@ else
 fi 
 EOF
 
-chmod 0755 /usr/local/bin/battermonitor.sh
+chmod 0755 /usr/local/bin/batterymonitor.sh
 
 crontab -l > /tmp/rootcrontab
 
